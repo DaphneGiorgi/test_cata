@@ -8,5 +8,4 @@ statsmodels
 scikit-learn
 tensorflow
 lightgbm
-xgboost
 requests
