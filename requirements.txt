@@ -3,3 +3,10 @@ pandas
 scikit-learn
 scipy
 matplotlib
+seaborn
+statsmodels
+scikit-learn
+tensorflow
+lightgbm
+xgboost
+requests
